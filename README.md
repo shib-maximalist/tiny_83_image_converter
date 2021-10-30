@@ -1,6 +1,6 @@
 ## What is this?
 This tool allows you to convert any 14p high and 22p wide Bitmap (.bmp) to the seed needed for the 
-[Tiny-83 NFT project](https://opensea.io/collection/tiny-83 "Tiny-83 NFT project").
+[Tiny-83 NFT project](https://opensea.io/collection/tiny-83).
 
 Project Twitter: https://twitter.com/TINY83_nft
 
@@ -121,7 +121,7 @@ Let's enter them into the :
 
 *SUCCESS!*
 
-I am the original creator of the OHM(3,3) Tiny Calculator. Every other one copied my seed. If you want the original you can get it [here]("https://opensea.io/assets/0x7deb38a22694608a58b28970320d39ee50e7bc0f/652")
+I am the original creator of the OHM(3,3) Tiny Calculator. Every other one copied my seed. If you want the original you can get it here: https://opensea.io/assets/0x7deb38a22694608a58b28970320d39ee50e7bc0f/652 <br>
 
 <p align="center">
     <img src="documentation/calculator.svg"><br>

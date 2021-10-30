@@ -66,7 +66,7 @@ image_array = np.array(image)
 
 This matrix ist just a two-dimensional array that represents where a pixel is black (0) and where a pixel is white (1). We can use an IDE to visualize how it looks:
 <p align="center">
-    <img src="ohm.bmp"><br>
+    <img src="matrix.bpng"><br>
     Matrix representation of our image
 </p>
 
@@ -124,7 +124,7 @@ Let's enter them into the :
 I am the original creator of the OHM(3,3) Tiny Calculator. Every other one copied my seed. If you want the original you can get it [here]("https://opensea.io/assets/0x7deb38a22694608a58b28970320d39ee50e7bc0f/652")
 
 <p align="center">
-    <img src="documentation/calculator.png"><br>
+    <img src="documentation/calculator.svg"><br>
     Minting preview
 </p>
 

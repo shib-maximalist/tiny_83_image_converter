@@ -125,6 +125,6 @@ I am the original creator of the OHM(3,3) Tiny Calculator. Every other one copie
 
 <p align="center">
     <img src="documentation/calculator.svg"><br>
-    Minting preview
+    The original OHM(3,3) calculator.
 </p>
 

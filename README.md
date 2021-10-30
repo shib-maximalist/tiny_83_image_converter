@@ -14,6 +14,10 @@ My Twitter: https://twitter.com/shib_maximalist
 My Open Sea: https://opensea.io/shib_maximalist
 
 ## Usage
+Create an image with 22x14 pixels and save it as bitmap (.bmp). When you save it, set the coloer depth to 1-Bit. This way pixels will eithe rbe switched on or off (0|1).
+I used [paint.net](https://www.chip.de/downloads/Paint.NET_13015268.html)
+
+
 ### Windows
 ```
 git clone https://github.com/shib-maximalist/tiny_83_image_converter

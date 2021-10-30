@@ -34,6 +34,19 @@ python main.py
 When I played arround with the [minting page](https://tiny-83.github.io/tiny-83/ "minting page")  
 I noticed that the two seed value had a very distinctive influence on the outcome on the screen:
 <p align="center">
-    <img src="documentation/1.png">
+    <img src="documentation/1.png"><br>
+    (1,1)
 </p>
+<p align="center">
+    <img src="documentation/2.png"><br>
+    (2,2)
+</p>
+<p align="center">
+    <img src="documentation/3.png"><br>
+    (3,3)
+</p>
+3
+
+Notice something? Thats binary! Both panes (left an right) are composed of 11x14 pixels. Thats 154 pixels in total per pane and 308 for the whole image.
+What we need is a way to address the pixels individually.
 

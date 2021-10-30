@@ -33,4 +33,7 @@ python main.py
 ## How does it work?
 When I played arround with the [minting page](https://tiny-83.github.io/tiny-83/ "minting page")  
 I noticed that the two seed value had a very distinctive influence on the outcome on the screen:
+<p align="center">
+    <img src="documentation/1.png">
+</p>
 

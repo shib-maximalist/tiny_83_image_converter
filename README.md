@@ -70,7 +70,7 @@ image_array = np.array(image)
 
 This matrix ist just a two-dimensional array that represents where a pixel is black (0) and where a pixel is white (1). We can use an IDE to visualize how it looks:
 <p align="center">
-    <img src="matrix.png"><br>
+    <img src="documentation/matrix.png"><br>
     Matrix representation of our image
 </p>
 
